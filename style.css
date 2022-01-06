@@ -57,6 +57,7 @@
 }
 body {
   background: var(--white);
+  padding-top: 30px;
 }
 .padding_top_bottom{
   padding: 100px 0;
@@ -124,11 +125,11 @@ main {
 .banner_content h1::before {
   position: absolute;
   content: "";
-  top: 18px;
+  top: 17px;
   border-radius: var(--border-radius);
   left: 0;
   width: 4px;
-  height: 78%;
+  height: 75%;
   background-color: var(--secondary_color);
   -webkit-border-radius: var(--border-radius);
   -moz-border-radius: var(--border-radius);
