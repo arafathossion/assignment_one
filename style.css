@@ -57,7 +57,6 @@
 }
 body {
   background: var(--white);
-  padding-top: 30px !important;
 }
 .padding_top_bottom{
   padding: 100px 0;
@@ -108,6 +107,7 @@ main {
 }
 #banner {
   display: flex;
+  padding-top: 30px !important;
 }
 .banner_content {
   width: 60%;
