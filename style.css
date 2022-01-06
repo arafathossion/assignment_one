@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------
-* Template Name    : Mission 2022 | HTML5 Personal Template
+* Template Name    : Mission 2022 | HTML5 Personal Website
 * Author           : Arafat Hossion
 * Version          : 1.0.0
 * Created          : January 2022
@@ -321,6 +321,7 @@ main {
   -moz-border-radius: 20px;
   -ms-border-radius: 20px;
   -o-border-radius: 20px;
+  width: 32%;
 }
 .b_single_img img {
   width: 100%;
