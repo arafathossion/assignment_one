@@ -107,7 +107,7 @@ main {
 }
 #banner {
   display: flex;
-  padding-top: 30px !important;
+  padding-top: 50px !important;
 }
 .banner_content {
   width: 60%;
@@ -358,7 +358,7 @@ footer {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 25px 0;
+  padding: 50px 0;
 }
 footer h1 {
   font-family: var(--footer_heading);
@@ -372,5 +372,5 @@ footer p {
   line-height: 24px;
   font-feature-settings: "liga" off;
   color: #d9dbe1;
-  padding-top: 20px;
+  padding-top: 10px;
 }
